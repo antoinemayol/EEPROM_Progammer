@@ -1,2 +1,2 @@
 # EEPROM_Progammer
-Based on Ben eater's EEPROM Progrqmmer.
+Based on Ben eater's EEPROM Programmer.
